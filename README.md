@@ -9,5 +9,5 @@ Skills: Java / Spring Boot / REACT / Docker  / JS / C#
 - 😄 Pronouns: He/Him 
 - 📫 Reach out to me here: [LinkedIn](https://www.linkedin.com/in/bharathi-bms-214807129/)  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=bmsbharathi)  
+<!-- ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=bmsbharathi)   -->
 
